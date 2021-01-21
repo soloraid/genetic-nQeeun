@@ -1,1 +1,1 @@
-# genetic-nQeeun
+I created a genetic Algorithm for N-Queen with some information in photo on my Project.
